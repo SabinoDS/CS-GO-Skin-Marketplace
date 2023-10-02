@@ -1,0 +1,51 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "tipo": "Rifle"
+    },
+    {
+      "id": 2,
+      "tipo": "Escopeta"
+    },
+    {
+      "id": 3,
+      "tipo": "Facas"
+    },
+    {
+      "id": 4,
+      "tipo": "Luvas"
+    },
+    {
+      "id": 5,
+      "tipo": "Metralhadoras"
+    },
+    {
+      "id": 6,
+      "tipo": "Pistolas"
+    },
+    {
+      "id": 7,
+      "tipo": "Rifle de Precisão"
+    },
+    {
+      "id": 6,
+      "tipo": "Submetralhadoras"
+    }
+  ],
+  "armas": [
+    {
+      "item": "Baioneta (★)",
+      "nome": "Doppler (Phase 2)",
+      "preco": "6500.00",
+      "data": "2023-10-02",
+      "classe": "Facas",
+      "qualidade": "Nova de Fábrica",
+      "stattrak": false,
+      "colecao": "NaN",
+      "capa": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJG48ymmIWZqOf8MqjUxFRd4cJ5nqeW946n0FfgrRFqYWulIdSVdAI5NAqC-Fa2kOvv0Z-9vJ7KmidquCQr-z-DyAl0eh_q/512fx512f",
+      "descricao": "Com design relativamente inalterado desde a Segunda Guerra Mundial, a baioneta ainda tem um lugar em estratégias militares modernas. Investidas de baionetas continuam eficazes, como visto recentemente na segunda Guerra do Golfo e na guerra no Afeganistão. Esta arma foi pintada com tintas metálicas pretas e prateadas usando marmorização média e depois revestida com um acabamento especial. Perder-se na sua cor pode se provar fatal",
+      "id": 1
+    }
+  ]
+}
